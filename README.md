@@ -89,7 +89,7 @@ contribute, even if you are not a software developer.
 
 ## License
 
-<img align="right" src="https://www.gnu.org/graphics/gplv3-88x31.png">
+<a href="http://gplv3.fsf.org/"><img align="right" src="https://www.gnu.org/graphics/gplv3-88x31.png"></a>
 
 	Copyright (C) 2016 Álinson Santos Xavier <isoron@gmail.com>
 
